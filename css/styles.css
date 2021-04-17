@@ -1,0 +1,90 @@
+body {
+  background-color: #f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+  color: #393e46;
+  margin: 0;
+}
+
+#title {
+  background-color: #FFFFFF;
+  padding-bottom: 40px;
+}
+
+h1 {
+  color: #393e46;
+  font-family: "Montserrat-Extra-bold";
+  font-weight: 500;
+  letter-spacing: 3px;
+}
+
+/* h2 {
+  color: #fff3e6;
+  margin: 0;
+} */
+
+h3 {
+  font-family: "Montserrat-Bold";
+  color: #e3fdfd;
+  letter-spacing: 1.5px;
+}
+
+p {
+  color: #e3fdfd;
+}
+
+.navbar {
+  margin: 0;
+  letter-spacing: 2px;
+  padding-bottom: 2rem;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  font-size: 1.25rem;
+  font-weight: bold;
+  padding: 0px 15px;
+}
+
+/* .top-container {
+  background-color: #312c51;
+  background-image: url("../images/background1.jpg");
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 200px;
+  text-align: center;
+  height: 35%;
+} */
+
+.container-fluid{
+  padding: 2.5% 15%;
+}
+
+.titlecon {
+  text-align: center;
+  letter-spacing: 2px;
+  padding: 15% 0;
+}
+
+.titleimg {
+  width: 125%;
+}
+
+#services {
+  background-color: #393e46;
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.icon {
+  color: #a6e3e9;
+  padding-bottom: 25px;
+}
